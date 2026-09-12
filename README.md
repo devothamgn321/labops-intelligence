@@ -1,2 +1,4 @@
-# lab-portfolio
-Interactive lab portfolio planning simulation for demand forecasting, capacity planning, project portfolio tracking, risk, approvals, budgets, and leadership decision support.
+#LabOps Intelligence
+
+
+Interactive portfolio intelligence system for engineering lab demand forecasting, capacity planning, capital project prioritization, risk governance, scenario modeling, and executive decision support.
